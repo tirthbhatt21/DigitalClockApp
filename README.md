@@ -1,4 +1,4 @@
-![MasterHead](/Nodejs.gif)
+![MasterHead](/Android.gif)
 <div style="background:#2a2a2a;color:#fff;height:100%;width:100%;font-family: 'Fira Code';padding-left:20px;">
 Created On: 01 April 2024 [Monday]
     
@@ -8,7 +8,7 @@ Created On: 01 April 2024 [Monday]
 # Description
 
 - Digital Clock.<br/>
-- here i have made Digital Clock Android Application.<br>
+- here i have made Digital Clock Android Applicatio.<br>
 
 
 

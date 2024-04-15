@@ -8,7 +8,7 @@ Created On: 01 April 2024 [Monday]
 # Description
 
 - Digital Clock.<br/>
-- here i have made Digital Clock Android Applicatio.<br>
+- here i have made Digital Clock Android Application.<br>
 
 
 

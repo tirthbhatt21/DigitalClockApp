@@ -11,10 +11,11 @@ Created On: 01 April 2024 [Monday]
 - here i have made Digital Clock Android Applicatio.<br>
 
 
+[projectAnd1.webm](https://github.com/user-attachments/assets/95185044-8ff9-4d22-ac07-bac32c432264)
 
     
 =========================<br>
-[𝙲𝚕𝚒𝚌𝚔 𝙼𝚎 𝙵𝚘𝚛 𝙻𝚒𝚟𝚎 𝙳𝚎𝚖𝚘](/Digital%20Clock/AksharClock.apk) 
+[𝙲𝚕𝚒𝚌𝚔 𝙼𝚎 𝙵𝚘𝚛 Download](https://github.com/tirthbhatt21/DigitalClockApp/raw/refs/heads/main/Digital%20Clock/AksharClock.apk) 
 <br>=========================
 
 Here I shared about used technologies and so on...
